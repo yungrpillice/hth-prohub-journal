@@ -1,2 +1,14 @@
 # hth-prohub-journal
-HTML page archive and documentation
+
+自动页面托管记录
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 维护记录
+
+后续发布会继续追加页面，已有文件不会在 README 中逐一列出。
